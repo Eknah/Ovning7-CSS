@@ -1,0 +1,44 @@
+body {
+  background-color: #111111;
+  color: orange;
+  font-family: Verdana;
+  font-size: 12px;
+}
+
+h1 {
+  color: yellow;
+}
+
+header {
+	margin: auto;
+	width: 10%;
+}
+
+.mainDiv {
+	margin: auto;
+	width: 30%;
+}
+
+b {
+	color:yellow;
+}
+
+footer {
+	height: 50px;
+	background-color: black;
+	text-align: center;
+	padding-top: 20px;
+}
+
+a {
+	color: yellow;
+}
+
+ul, li {
+		margin: 0px;
+		padding: 0px;
+}
+
+li {
+	display: inline-block;
+}
